@@ -1,4 +1,4 @@
-# Zapp-Automation
+# Zap-Automation
 
 This repository contains a Python script to automate security scanning using the OWASP ZAP (Zed Attack Proxy) Docker image. The script facilitates a full security scan on a given target URL with authentication.
 
