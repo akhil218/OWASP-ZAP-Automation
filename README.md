@@ -14,6 +14,7 @@ The `zapp.py` script:
 ## Prerequisites
 
 - Docker must be installed and running on your system.
+- After Docker is installed and running on your system, pull the docker image.
   ```bash
   docker pull ictu/zap2docker-weekly
 - Python 3.x
